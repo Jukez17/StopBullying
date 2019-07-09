@@ -1,1 +1,1 @@
-# React Native with internationalization and orientation handling.
+# Stop Bullying App.
